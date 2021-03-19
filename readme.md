@@ -8,7 +8,3 @@ Lorem
 
 -Paso 2
 Lorem
-
--Paso 3
-
--Paso 4
